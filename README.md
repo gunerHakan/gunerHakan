@@ -11,7 +11,7 @@ Yazılım geliştirme süreçlerinde **6 yılı aşkın** tecrübeye sahip, öze
 * Şu sıralar **Caseflow** adında kapsamlı bir dava ve hukuk süreç yönetimi uygulaması geliştiriyorum. (Backend: **Java & Spring Boot**, Mobile Frontend: **React Native**)
 * Kurumsal web projelerinin (örneğin hukuk büroları için) modernizasyonu ve baştan aşağı refactor edilmesi süreçlerini yönetiyorum.
 * Sürekli öğrenmeye inanıyor; şu an İngilizce yetkinliğimi (B2 seviyesi) akademik ortamda geliştirmeye devam ediyorum.
-* **Eğlenceli Bilgi:** Kod yazmadığım zamanlarda müzikle ilgileniyor, yeşil sahalarda koşturuyor (kaleci hariç her mevki!) ve düzenli koşu yapıyorum.
+* **Eğlenceli Bilgi:** Kod yazmadığım zamanlarda müzikle ilgileniyor, yeşil sahalarda koşturuyor ve düzenli koşu yapıyorum.
 
 ---
 
