@@ -30,16 +30,7 @@ Yazılım geliştirme süreçlerinde **6 yılı aşkın** tecrübeye sahip, öze
 
 ---
 
-### GitHub İstatistiklerim
-
-*(Not: Aşağıdaki linklerde yer alan `kullanici-adiniz` kısımlarını kendi GitHub kullanıcı adınızla değiştirmeyi unutmayın!)*
-
-![Hakan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunerHakan&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunerHakan&layout=compact&theme=radical)
-
----
-
-### 📫 Bana Ulaşın
+### Bana Ulaşın
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [LinkedIn Profilim](https://linkedin.com/in/gunerhakan)  
 ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) **E-posta:** hakanguner94@gmail.com
